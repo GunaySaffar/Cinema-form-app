@@ -1,0 +1,13 @@
+c:\users\admin\documents\visual studio 2017\Projects\Final-Cinema\Final-Cinema\bin\Debug\Final-Cinema.exe.config
+c:\users\admin\documents\visual studio 2017\Projects\Final-Cinema\Final-Cinema\bin\Debug\Final-Cinema.exe
+c:\users\admin\documents\visual studio 2017\Projects\Final-Cinema\Final-Cinema\bin\Debug\Final-Cinema.pdb
+c:\users\admin\documents\visual studio 2017\Projects\Final-Cinema\Final-Cinema\obj\Debug\Final-Cinema.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2017\Projects\Final-Cinema\Final-Cinema\obj\Debug\Final_Cinema.Form1.resources
+c:\users\admin\documents\visual studio 2017\Projects\Final-Cinema\Final-Cinema\obj\Debug\Final_Cinema.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2017\Projects\Final-Cinema\Final-Cinema\obj\Debug\Final-Cinema.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2017\Projects\Final-Cinema\Final-Cinema\obj\Debug\Final-Cinema.exe
+c:\users\admin\documents\visual studio 2017\Projects\Final-Cinema\Final-Cinema\obj\Debug\Final-Cinema.pdb
+c:\users\admin\documents\visual studio 2017\Projects\Final-Cinema\Final-Cinema\obj\Debug\Final_Cinema.Registr.resources
+c:\users\admin\documents\visual studio 2017\Projects\Final-Cinema\Final-Cinema\obj\Debug\Final_Cinema.Movies.resources
+c:\users\admin\documents\visual studio 2017\Projects\Final-Cinema\Final-Cinema\obj\Debug\Final_Cinema.DataTime.resources
+C:\Users\admin\Documents\Visual Studio 2017\Projects\Final-Cinema\Final-Cinema\obj\Debug\Final_Cinema.CinemaRoom.resources
